@@ -21,4 +21,5 @@ System.out.println("e.printStackTrace():");
 Output
 output dari kode program tersebut adalah.
 
-![image](https://user-images.githubusercontent.com/114383364/214106155-a1f0390c-4ee9-4521-92c4-feb5b9e1846e.png)
+![ThrowSeven](https://user-images.githubusercontent.com/114383364/214106398-8106eef3-edc0-4b1a-9715-1a09ea107f7f.png)
+
