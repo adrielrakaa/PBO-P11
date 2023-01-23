@@ -11,8 +11,11 @@ Catch
 Kemudian, keyword catch menangkap karena ada kesalahan. karena didalam catch terdapat keyword printStream maka output yang dihasilkan adalah;
 
 System.out.println("Caught Exception");
+
 System.out.println("e.getMassage(): "+e.getMessage());
+
 System.out.println("e.toString(): "+e.toString());
+
 System.out.println("e.printStackTrace():");
 
 Output
